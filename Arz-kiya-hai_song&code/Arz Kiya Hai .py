@@ -216,4 +216,4 @@ lyrics = [
     (204.00, "Sirf tu sunne aaye to", 0.60),
 ]
 
-play_with_lyrics("Arz Kiya Hai .mp3", lyrics)
+play_with_lyrics("Arz-kiya-hai_song&code/Arz Kiya Hai .m4a", lyrics)
