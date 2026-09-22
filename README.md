@@ -1,21 +1,12 @@
-Here's a **beautiful, modern README** for **lyrics-and-me-** — designed with badges, image placeholders, tables, and clean typography. Just copy-paste and fill in your image URLs.
+---<img width="2560" height="1440" alt="banner yt (2)" src="https://github.com/user-attachments/assets/8c281b2a-557c-4228-b134-4f13dd5c7e7e" />
 
----
 
-```markdown
 <div align="center">
 
 # 🎵 Lyrics & Me
 
-### *Watch your songs sing themselves — word by word — in your terminal.*
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Pygame](https://img.shields.io/badge/Pygame-2.x-00B140?style=for-the-badge&logo=python&logoColor=white)](https://pygame.org)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-9cf?style=for-the-badge)]()
-[![Stars](https://img.shields.io/github/stars/whythisprotocol/lyrics-and-me-?style=for-the-badge&color=ff69b4)](https://github.com/whythisprotocol/lyrics-and-me-/stargazers)
 
-<img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Lyrics & Me Banner" width="100%" />
 
 </div>
 
@@ -39,11 +30,8 @@ Perfect for:
 
 <div align="center">
 
-<img src="YOUR_SCREENSHOT_1_URL_HERE" alt="Preview 1" width="80%" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c0fef945-80ee-4766-badc-350acacd219d" />
 
-<br/><br/>
-
-<img src="YOUR_SCREENSHOT_2_URL_HERE" alt="Preview 2" width="80%" />
 
 </div>
 
@@ -64,17 +52,7 @@ Perfect for:
 | 🎹 | **Tune interludes** | Animated equalizer bars during instrumental breaks |
 | 🌈 | **Zero dependencies bloat** | Just Python + pygame |
 
----
 
-## 🎬 Demo
-
-<div align="center">
-
-<img src="YOUR_DEMO_GIF_URL_HERE" alt="Demo GIF" width="80%" />
-
-</div>
-
----
 
 ## 📦 Installation
 
@@ -160,14 +138,14 @@ Tune the experience to your taste — all knobs live at the top of `player.py`:
 
 ```
 lyrics-and-me-/
-├── player.py              # Main player script
-├── Arz Kiya Hai .mp3      # Your song
-├── README.md              # You're reading it
-├── .gitignore             # Keeps the repo clean
-└── LICENSE                # MIT
+├── Arz-kiya-hai_song&code/
+│   ├── Arz Kiya Hai .m4a     # Audio file
+│   └── Arz Kiya Hai .py      # Lyrics + player script
+├── LICENSE                    # MIT License
+└── README.md                  # You're reading it
 ```
 
----
+
 
 ## 🤝 Contributing
 
